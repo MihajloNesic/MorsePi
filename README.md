@@ -2,6 +2,7 @@
 Morse Code translator for Raspberry Pi and PiFace Digital 2
 
 ## [Video](https://youtu.be/pbu7mwg0ob8)
+![GitHub Logo](http://i.imgur.com/xGnzeAp.jpg)
 
 ## Clone git
 `git init` <br />
