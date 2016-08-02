@@ -1,6 +1,8 @@
 # MorsePi
 Morse Code translator for Raspberry Pi and PiFace Digital 2
 
+## [Video](https://youtu.be/pbu7mwg0ob8)
+
 ## Clone git
 `git init` <br />
 `git clone https://github.com/MihajloNesic/MorsePi.git` <br />
