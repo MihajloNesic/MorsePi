@@ -60,7 +60,7 @@ def dot():
 	pf.leds[led].turn_off()
 	time.sleep(0.2)
 
-def dash()
+def dash():
 	pf.leds[led].turn_on()
 	time.sleep(0.5)
 	pf.leds[led].turn_off()
